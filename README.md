@@ -1,4 +1,4 @@
-# 👋 Hi there! I’m Mohammed (@mohbid)
+# 👋 Hi there! I’m Abid (@mohbid)
 
 Welcome to my humble acode!
 
